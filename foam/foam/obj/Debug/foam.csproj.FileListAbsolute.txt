@@ -1,0 +1,11 @@
+C:\Users\ZERRA\source\repos\foam\foam\bin\Debug\foam.exe.config
+C:\Users\ZERRA\source\repos\foam\foam\bin\Debug\foam.exe
+C:\Users\ZERRA\source\repos\foam\foam\bin\Debug\foam.pdb
+C:\Users\ZERRA\source\repos\foam\foam\obj\Debug\foam.csproj.AssemblyReference.cache
+C:\Users\ZERRA\source\repos\foam\foam\obj\Debug\foam.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZERRA\source\repos\foam\foam\obj\Debug\foam.Properties.Resources.resources
+C:\Users\ZERRA\source\repos\foam\foam\obj\Debug\foam.csproj.GenerateResource.cache
+C:\Users\ZERRA\source\repos\foam\foam\obj\Debug\foam.csproj.CoreCompileInputs.cache
+C:\Users\ZERRA\source\repos\foam\foam\obj\Debug\foam.exe
+C:\Users\ZERRA\source\repos\foam\foam\obj\Debug\foam.pdb
+C:\Users\ZERRA\source\repos\foam\foam\obj\Debug\foam.Form1.resources
