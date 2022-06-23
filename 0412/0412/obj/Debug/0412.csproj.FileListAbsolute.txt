@@ -1,0 +1,8 @@
+C:\Users\ZERRA\source\repos\0412\0412\bin\Debug\0412.exe.config
+C:\Users\ZERRA\source\repos\0412\0412\bin\Debug\0412.exe
+C:\Users\ZERRA\source\repos\0412\0412\bin\Debug\0412.pdb
+C:\Users\ZERRA\source\repos\0412\0412\obj\Debug\0412.csproj.AssemblyReference.cache
+C:\Users\ZERRA\source\repos\0412\0412\obj\Debug\0412.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZERRA\source\repos\0412\0412\obj\Debug\0412.csproj.CoreCompileInputs.cache
+C:\Users\ZERRA\source\repos\0412\0412\obj\Debug\0412.exe
+C:\Users\ZERRA\source\repos\0412\0412\obj\Debug\0412.pdb
